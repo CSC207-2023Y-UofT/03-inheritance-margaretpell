@@ -11,7 +11,7 @@ public abstract class Bag {
      *       - a String named color
      *       - an int named numberOfContents
      *       - an int named capacity
-     *       - an array of Strings named contentsaaa
+     *       - an array of Strings named contents
      *
      */
     private String color;
@@ -65,7 +65,7 @@ public abstract class Bag {
      * TODO: Create a setter function called setColor which sets the
      *       color of this bag to the given color.
      */
-    public void setColor(){
+    public void setColor(String color){
         this.color = color;
     }
 
