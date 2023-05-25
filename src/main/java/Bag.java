@@ -11,7 +11,7 @@ public abstract class Bag {
      *       - a String named color
      *       - an int named numberOfContents
      *       - an int named capacity
-     *       - an array of Strings named contents
+     *       - an array of Strings named contentsaaa
      *
      */
     private String color;
